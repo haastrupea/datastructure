@@ -1,0 +1,19 @@
+{
+  "name": "datastructure",
+  "version": "1.0.0",
+  "description": "implementations of various data structure in Js",
+  "main": "linkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dataStructure"
+  },
+  "keywords": [
+    "data",
+    "structure"
+  ],
+  "author": "Haastrup ELijah",
+  "license": "ISC"
+}
